@@ -20,8 +20,8 @@ By Using RES18:
     Testing Accuracy: 96%
     F1 Score: 0.97
     Confusion Matrix on Test Data: 
-		|               	|            	| Predicted Values 	|          	|
-		|:-------------:	|:----------:	|:----------------:	|:--------:	|
-		|               	|            	|    “infected”    	| “normal” 	|
-		| Actual Values 	| “infected” 	|     TP = 587     	|  FN = 28 	|
-		|               	|  “normal”  	|      FP = 21     	| TN = 864 	|
+|               |            | Predicted Values |          |
+|:-------------:|:----------:|:----------------:|:--------:|
+|               |            |    “infected”    | “normal” |
+| Actual Values | “infected” |     TP = 587     |  FN = 28 |
+|               |  “normal”  |      FP = 21     | TN = 864 |
