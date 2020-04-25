@@ -10,7 +10,7 @@ By Using VGG16:
     F1 Score: 0.94
     
     Confusion Matrix on Test Data: 
-|               |              Predicted Values            |
+|               |            | Predicted Values |          |
 |:-------------:|:----------:|:----------------:|:--------:|
 |               |            |    “infected”    | “normal” |
 | Actual Values | “infected” |     TP = 552     |  FN = 63 |
