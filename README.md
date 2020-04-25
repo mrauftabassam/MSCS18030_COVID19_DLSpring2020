@@ -4,6 +4,7 @@ This repository contains code and results for COVID-19 classification assignment
 # Task 1: Load pretrained CNN model and fine-tune FC Layers
 
 ### By Using VGG16: 
+Code for this experiment is attached named as "covid19_classification_01.ipynb"
 
     Testing Accuracy: 94%
     
@@ -17,6 +18,7 @@ This repository contains code and results for COVID-19 classification assignment
 |               |  “normal”  |      FP = 27     | TN = 858 |
 		
 ### By Using RES18: 
+Code for this experiment is attached named as "covid19_classification_02.ipynb"
 
     Testing Accuracy: 96%
     
@@ -34,6 +36,7 @@ This repository contains code and results for COVID-19 classification assignment
 # Task 2: Fine-tune the CNN and FC layers of the network
 
 ### By Using VGG16: 
+Code for this experiment is attached named as "covid19_classification_05.ipynb"
 
     Testing Accuracy: 97%
     
@@ -47,6 +50,7 @@ This repository contains code and results for COVID-19 classification assignment
 |               |  “normal”  |      FP = 14     | TN = 871 |
 		
 ### By Using RES18: 
+Code for this experiment is attached named as "covid19_classification_10.ipynb"
 
     Testing Accuracy: 96%
     
@@ -61,3 +65,4 @@ This repository contains code and results for COVID-19 classification assignment
 
 =================================================================
 
+#### Note: Other experiments results are reported in attached report named as "Report_A5.pdf"
