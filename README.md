@@ -6,7 +6,7 @@ By Using VGG16:
     Testing Accuracy: 94%
     F1 Score: 0.94
     Confusion Matrix on Test Data: 
-		|               	|            	  Predicted Values 	           	|
+		|               	|            	| Predicted Values 	|          	|
 		|:-------------:	|:----------:	|:----------------:	|:--------:	|
 		|               	|            	|    “infected”    	| “normal” 	|
 		| Actual Values 	| “infected” 	|     TP = 552     	|  FN = 63 	|
@@ -16,7 +16,7 @@ By Using RES18:
     Testing Accuracy: 96%
     F1 Score: 0.97
     Confusion Matrix on Test Data: 
-		|               	|            	  Predicted Values 	           	|
+		|               	|            	| Predicted Values 	|          	|
 		|:-------------:	|:----------:	|:----------------:	|:--------:	|
 		|               	|            	|    “infected”    	| “normal” 	|
 		| Actual Values 	| “infected” 	|     TP = 587     	|  FN = 28 	|
