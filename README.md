@@ -30,3 +30,34 @@ This repository contains code and results for COVID-19 classification assignment
 |               |  “normal”  |      FP = 21     | TN = 864 |
 
 =================================================================
+
+# Task 2: Fine-tune the CNN and FC layers of the network
+
+### By Using VGG16: 
+
+    Testing Accuracy: 97%
+    
+    F1 Score: 0.98
+    
+    Confusion Matrix on Test Data: 
+|               |            | Predicted Values |          |
+|:-------------:|:----------:|:----------------:|:--------:|
+|               |            |    “infected”    | “normal” |
+| Actual Values | “infected” |     TP = 594     |  FN = 21 |
+|               |  “normal”  |      FP = 14     | TN = 871 |
+		
+### By Using RES18: 
+
+    Testing Accuracy: 96%
+    
+    F1 Score: 0.97
+    
+    Confusion Matrix on Test Data: 
+|               |            | Predicted Values |          |
+|:-------------:|:----------:|:----------------:|:--------:|
+|               |            |    “infected”    | “normal” |
+| Actual Values | “infected” |     TP = 586     |  FN = 29 |
+|               |  “normal”  |      FP = 23     | TN = 862 |
+
+=================================================================
+
